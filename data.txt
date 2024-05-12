@@ -1,0 +1,17 @@
+BenhNhan,P001,HS001,DT001,Nguyen A,2004,Dau mat,D001,Chua
+BenhNhan,P002,HS002,DT001Nguyen, B,2005,Om,D001,Kham
+BenhNhan,P003,HS003,DT001,Nguyen C,2005,Om,D002,Kham
+BenhNhan,P004,HS004,DT001,Nguyen D,2150,Dau dau,D001,Kham
+BenhNhan,P005,HS005,DT001,Nguyen E,2006,Dau mat,D002,Kham
+BenhNhan,P006,HS006,DT001,Nguyen F,2001,Lao,D001,Kham
+BenhNhan,P007,HS007,DT001,Nguyen G,2153,Lao,D002,Kham
+BenhNhan,P008,HS008,DT001,Nguyen H,2150,Om,D002,Kham
+BenhNhan,P009,HS009,DT001,Nguyen I,2151,Om,D001,Kham
+BenhNhan,P0010,HS0010,DT001,Nguyen K,2156,Om,D001,Kham
+Khoa,K001,Khoa kham
+Khoa,K002,Khoa chua benh
+BacSi,D001,Bac si X,2002,Khoa Kham,123456789
+BacSi,D002,Bac si Y,2001,Khoa Chua Benh,987654321
+DichVu,S001,Kham,50,2024-05-02
+DichVu,S002,Chua,60,2024-05-02
+DonThuoc,DT001,ngay-1,khangsinh,chongviem 
